@@ -1,4 +1,5 @@
 // THIS IS A MODULE
+var https = require('https');
 
 module.exports = function getHTML (options, callback) {
 

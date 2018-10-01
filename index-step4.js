@@ -25,8 +25,6 @@ function printHTML(html) {
 
 }
 
-
-
 var requestOptions = {
   host: 'sytantris.github.io',
   path: '/http-examples/step4.html'
